@@ -1,6 +1,6 @@
-{ "homepage": "http//:juzznick.guthub.io/test",
+{ "homepage": "http//:juzznick.github.io/test",
   "name": "attendex",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {

@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card{
+  border-style: solid;
+  border-color: #535bf2;
+  padding: 7rem;
+  border-radius: 1rem;
+}
+
+input{
+  margin-top: .4rem;
+}
+
+
+
+
+
